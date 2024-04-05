@@ -6,7 +6,6 @@ In this project,demonstrates a complete workflow for building, training, and eva
 3. NumPy
 4. Pandas
 5. Matplotlib
-6. etc...
 # To run the provided Python code step by step, follow these instructions:
 # Install Required Libraries:
 *Before running the code, ensure that you have installed the required libraries. You can install them using pip, if you haven't already:
