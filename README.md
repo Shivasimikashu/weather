@@ -13,7 +13,7 @@ In this project,demonstrates a complete workflow for building, training, and eva
 # CMD Command:
 * __pip install numpy pandas matplotlib keras plotly scikit-learn__
 # Prepare Data:
-*Make sure you have the dataset file "car_purchasing_data.csv" located at the correct path specified in the code  like ("/content/seattle-weather.csv"). If the dataset is in a different location or has a different name, adjust the file path accordingly.
+*Make sure you have the dataset file "seattle-weather.csv" located at the correct path specified in the code  like ("/content/seattle-weather.csv"). If the dataset is in a different location or has a different name, adjust the file path accordingly.
 
 # Run the Code:
 *Open a Python environment (IDE, Jupyter Notebook, or any Python interpreter) and copy the provided code into a Python script or a Jupyter Notebook cell.
